@@ -1,0 +1,6 @@
+{
+  "name": "Finanças",
+  "description": "Aplicativo simples, elegante e eficiente para gerenciamento e controle de contas mensais, despesas fixas e orçamento pessoal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_api"]
+}
